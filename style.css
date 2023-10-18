@@ -1,0 +1,68 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Pixelify Sans', sans-serif;
+}
+
+body
+{
+  background-color: #1c1c1c;
+  color: white;
+  margin: auto;
+  font-size: 20px;
+  width:60%;
+  box-shadow: 5px 5px 40px 10px #121212;
+  padding: 20px;
+  margin-top: 40px;
+  align-items:center;
+}
+
+
+
+.mainImage 
+{
+  width: 30%;
+  height: auto;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  box-shadow: 5px 5px 50px 10px #121212;
+  border-radius: 150px;
+  border: solid;
+  border-color: white;
+
+
+}
+
+.mainTitle
+{
+  font-size: 50px;
+  font-weight: bold;
+  color: #cb207b;
+  transition: 0.5s;
+}
+
+.mainTitle:hover {
+  font-size: 60px;
+}
+
+.header
+{
+  color:#cb207b;
+  font-size: 30px;
+  transition: 0.5s;
+
+}
+.header:hover {
+  font-size: 35px;
+}
+
+.hobbies 
+{
+  color:#61ff61;
+}
+
+.header2
+{
+  font-size: 25px;
+}
+
